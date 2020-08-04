@@ -1,5 +1,5 @@
 # abc-digital-agency
-Presentation website coded in HTML, CSS, jQuery; also implemented Font Awesome icons.
+Presentation website (or a very cool template) coded in HTML, CSS, jQuery; also implemented Font Awesome icons.
 Live version: https://b-husein.github.io/abc-digital-agency/
 
 🔥 FOLLOW ME ON:
