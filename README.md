@@ -2,12 +2,6 @@
 Presentation website (or a very cool template) coded in HTML, CSS, jQuery; also implemented Font Awesome icons.
 Live version: https://b-husein.github.io/abc-digital-agency/
 
-🔥 FOLLOW ME ON:
-
-🚀 https://github.com/b-husein 
-
-🚀 https://www.linkedin.com/in/pragmaticxyz/
-
 💻 USEFUL PLAYLISTS:
 
 👊 HTML5
